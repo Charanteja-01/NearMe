@@ -106,13 +106,11 @@ html>
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/193a83a2-bdc9-4aa5-b2ab-b3918583bf43)
+![image](https://github.com/user-attachments/assets/3cd147e9-fcd1-4fd2-a101-96cde03711e9)
+![image](https://github.com/user-attachments/assets/a8511fb9-100e-4731-8b2e-db8adc1292cb)
+![image](https://github.com/user-attachments/assets/52e436af-45dc-4d8a-8df7-7fe0b9cdc266)
 
-![alt text](<Screenshot 2025-05-05 084422.png>)
 
-![alt text](<Screenshot 2025-05-05 084402.png>)
-
-![alt text](<Screenshot 2025-05-05 084329.png>)
-
-![alt text](<Screenshot 2025-05-05 084346.png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
